@@ -119,49 +119,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="269" y="90" width="1089" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593119370732">
+    <state width="1515" height="281" key="GridCell.Tab.0.bottom" timestamp="1605109686885">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="269" y="90" width="1089" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1593119370732" />
-    <state x="547" y="175" key="FileChooserDialogImpl" timestamp="1593119360065">
+    <state width="1515" height="281" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605109686885" />
+    <state width="1515" height="281" key="GridCell.Tab.0.center" timestamp="1605109686885">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="547" y="175" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593119360065" />
-    <state width="1515" height="281" key="GridCell.Tab.0.bottom" timestamp="1593125902580">
+    <state width="1515" height="281" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605109686885" />
+    <state width="1515" height="281" key="GridCell.Tab.0.left" timestamp="1605109686885">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="281" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593125902580" />
-    <state width="1515" height="281" key="GridCell.Tab.0.center" timestamp="1593125902580">
+    <state width="1515" height="281" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605109686885" />
+    <state width="1515" height="281" key="GridCell.Tab.0.right" timestamp="1605109686885">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="281" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593125902580" />
-    <state width="1515" height="281" key="GridCell.Tab.0.left" timestamp="1593125902580">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="281" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593125902580" />
-    <state width="1515" height="281" key="GridCell.Tab.0.right" timestamp="1593125902580">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="281" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593125902580" />
-    <state width="1515" height="252" key="GridCell.Tab.1.bottom" timestamp="1593100816875">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593100816875" />
-    <state width="1515" height="252" key="GridCell.Tab.1.center" timestamp="1593100816874">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593100816874" />
-    <state width="1515" height="252" key="GridCell.Tab.1.left" timestamp="1593100816874">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593100816874" />
-    <state width="1515" height="252" key="GridCell.Tab.1.right" timestamp="1593100816874">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593100816874" />
-    <state x="277" y="55" key="SettingsEditor" timestamp="1593073520823">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593073520823" />
+    <state width="1515" height="281" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605109686885" />
   </component>
 </project>

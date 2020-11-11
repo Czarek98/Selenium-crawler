@@ -2,6 +2,10 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 import time
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
+
 
 
 options = Options()
@@ -22,15 +26,20 @@ def test_testcrawler(number):
         i = 1
         while i < 5:
             driver.execute_script("window.scrollTo(0,1000.5999755859375)")
-            time.sleep(1)
+            #time.sleep(1)
+            #driver.implicitly_wait(1)
+            WebDriverWait(driver, 2).until(EC.presence_of_all_elements_located)
             driver.find_element_by_css_selector(".icon-download").click()
             driver.find_element_by_css_selector("label:nth-child(8)").click()
             driver.find_element_by_css_selector(".download-continue").click()
             driver.find_element_by_css_selector(".icon-doc").click()
             driver.execute_script("window.scrollTo(0,1500.5999755859375)")
-            time.sleep(1)
+            #time.sleep(1)
+            #driver.implicitly_wait(1)
             if  i==4:
-                time.sleep(1)
+                #time.sleep(1)
+                #driver.implicitly_wait(1)
+                WebDriverWait(driver, 2).until(EC.presence_of_all_elements_located)
                 driver.execute_script("window.scrollTo(0,1000.5999755859375)")
                 driver.find_element(By.LINK_TEXT, "schließen").click()
                 break
@@ -38,12 +47,17 @@ def test_testcrawler(number):
 
             driver.find_element(By.CSS_SELECTOR, ".bt-fixed .slick-next").click()
             i += 1
-        time.sleep(1)
+       # time.sleep(1)
+        #driver.implicitly_wait(1)
+        WebDriverWait(driver, 2).until(EC.presence_of_all_elements_located)
         driver.execute_script("window.scrollTo(0,1200.5999755859375)")
         driver.find_element_by_xpath("//div[@id='mediathek_442344']/button[2]").click()
-        time.sleep(1)
+        #time.sleep(1)
+        #driver.implicitly_wait(1)
+        WebDriverWait(driver, 1).until(EC.presence_of_all_elements_located)
         child = child +4
-        time.sleep(2)
+        #time.sleep(2)
+        #driver.implicitly_wait(2)
 
 
 
